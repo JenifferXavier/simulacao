@@ -1,1 +1,1 @@
-Primeiro arquivo
+Linha adicionada pelo branch com-conflito
